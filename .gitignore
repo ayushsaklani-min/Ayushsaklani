@@ -1,0 +1,42 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+
+# Rust
+target/
+Cargo.lock
+
+# Android
+.android/
+
+# AWS
+.aws/
+
+# Cargo
+.cargo/
+
+# Other
+.env
+.git-credentials
+*.exe
+
