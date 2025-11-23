@@ -2,7 +2,7 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=200&section=header&text=AYUSH%20SAKLANI&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=40" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Learning%F0%9F%9A%80;Blockchain+Enthusiast%F0%9F%92%AF;Web3+Builder%F0%9F%8E%AF;Open+Source+Contributor%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Learning%F0%9F%9A%80;Blockchain+Enthusiast%F0%9F%92%AF;Web3+Builder%F0%9F%8E%AF;Full+Stack+Developer%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" />
   
 </div>
 
@@ -367,7 +367,7 @@
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+❤️;Let's+build+something+amazing+together!+🚀" />
   
-  
+  ![Snake animation](https://github.com/ayushsaklani-min/ayushsaklani-min/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
@@ -390,4 +390,4 @@
   <img src="https://komarev.com/ghpvc/?username=ayushsaklani-min&color=FF6B9D&style=flat-square&label=Profile+Views" alt="Profile views" />
   
 </div>
-
+>>>>>>> 00b714a (Add GitHub profile README with snake animation workflow)
