@@ -367,7 +367,7 @@
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+❤️;Let's+build+something+amazing+together!+🚀" />
   
-  ![Snake animation](https://github.com/ayushsaklani-min/ayushsaklani-min/blob/output/github-contribution-grid-snake.svg)
+  
   
 </div>
 
