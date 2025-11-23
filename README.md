@@ -390,4 +390,4 @@
   <img src="https://komarev.com/ghpvc/?username=ayushsaklani-min&color=FF6B9D&style=flat-square&label=Profile+Views" alt="Profile views" />
   
 </div>
->>>>>>> 00b714a (Add GitHub profile README with snake animation workflow)
+
