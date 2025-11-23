@@ -22,10 +22,9 @@
 
 <div align="center">
   
-  ```diff
-  + Building the future of Web3, one commit at a time! 🚀
-  - Love to build this! 💜
-  ```
+  **🚀 Building the future of Web3, one commit at a time!**
+  
+  **💜 Love to build this!**
 
 </div>
 
@@ -391,3 +390,4 @@
   
 </div>
 >>>>>>> 00b714a (Add GitHub profile README with snake animation workflow)
+
