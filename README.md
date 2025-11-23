@@ -269,7 +269,7 @@
 
 <div align="center">
 
-  ![Buildathon Snapshot](assets/Screenshot%202025-11-23%20152356.png)
+  ![Profile Snapshot](image.png)
 
 </div>
 
